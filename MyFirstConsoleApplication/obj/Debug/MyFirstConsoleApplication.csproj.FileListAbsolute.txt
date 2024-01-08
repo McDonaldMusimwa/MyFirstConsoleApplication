@@ -1,0 +1,8 @@
+C:\projects\dotnetlessons\MyFirstConsoleApplication\MyFirstConsoleApplication\bin\Debug\MyFirstConsoleApplication.exe.config
+C:\projects\dotnetlessons\MyFirstConsoleApplication\MyFirstConsoleApplication\bin\Debug\MyFirstConsoleApplication.exe
+C:\projects\dotnetlessons\MyFirstConsoleApplication\MyFirstConsoleApplication\bin\Debug\MyFirstConsoleApplication.pdb
+C:\projects\dotnetlessons\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.csproj.AssemblyReference.cache
+C:\projects\dotnetlessons\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.csproj.SuggestedBindingRedirects.cache
+C:\projects\dotnetlessons\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.csproj.CoreCompileInputs.cache
+C:\projects\dotnetlessons\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.exe
+C:\projects\dotnetlessons\MyFirstConsoleApplication\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.pdb
